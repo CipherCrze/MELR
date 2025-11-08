@@ -1,0 +1,6 @@
+id,name,artist,danceability,acousticness,liveness,energy,valence,tempo,genre,year
+1,Ishq,Faheem Abdullah & Rauhan Malik,0.65,0.3,0.1,0.55,0.6,95,indian,2013
+2,Marz,The Yellow Diary,0.55,0.4,0.15,0.7,0.5,120,indian,2012
+3,O Rangrez,Shankar-Ehsaan-Loy ft. Shreya Ghoshal & Javed Bashir,0.45,0.5,0.12,0.65,0.55,126,indian,2009
+4,Yeh Fitoor Mera,Arijit Singh,0.6,0.35,0.1,0.6,0.65,110,indian,2019
+5,Buniyaad,The Yellow Diary,0.58,0.45,0.14,0.68,0.52,115,indian,2020
